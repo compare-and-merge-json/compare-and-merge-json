@@ -1,0 +1,24 @@
+{
+  "name": "compare-and-merge-json",
+  "version": "1.0.0",
+  "description": "Tool to compare two json files, get the difference and merge the files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compare-and-merge-json/compare-and-merge-json.git"
+  },
+  "keywords": [
+    "compare",
+    "merge",
+    "json"
+  ],
+  "author": "GokulnathP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/compare-and-merge-json/compare-and-merge-json/issues"
+  },
+  "homepage": "https://github.com/compare-and-merge-json/compare-and-merge-json#readme"
+}
